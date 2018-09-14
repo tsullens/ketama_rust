@@ -1,0 +1,7 @@
+[package]
+name = "ketama_rust"
+version = "0.1.0"
+authors = ["tsullens <tsullens@mix.wvu.edu>"]
+
+[dependencies]
+rand = "^0.5.5"
